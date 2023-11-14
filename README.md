@@ -2,6 +2,9 @@
 ![교류회 템플릿_잠실대교_1](https://github.com/grace7040/JamsilBridgeWar/assets/81251069/c87add65-972e-4b6a-afe1-5a6af1164aad)
   
   
+**스토리 영상** : https://www.youtube.com/watch?v=uk5n8rE756s
+**게임 소개 영상** : https://youtu.be/W34e4hlNBxI?feature=shared
+  
   
 ## 1. 게임개요
 **1-1) 제목** : 잠실대교는 왜 막히는거야  
@@ -12,7 +15,6 @@
 결국 ‘건대연합’이 잠실대교의 명명권을 얻기 위해 ‘잠실연합’에게 전쟁을 선포하게 된다.   
 전쟁의 주 원인인 잠실대교가 전투의 장소가 되었고 이로 인해 잠실대교의 통행이 원활하지 않게 되었고,   
 이를 모르는 사람들은 뚫리지 않는 잠실대교를 바라보며 ‘잠실대교는 왜 막히는거야’라며 푸념을 늘어놓는다.  
-( 스토리 영상 : https://www.youtube.com/watch?v=uk5n8rE756s )  
 **1-4) 지리적 배경**  
 : 잠실대교 인근의 실제 지형을 사용하며 북쪽으로는 건국대학교 일감호, 남쪽으로는 석촌호수를 포함한다.  
 ![image](https://github.com/grace7040/JamsilBridgeWar/assets/81251069/06b9f480-a2c0-4bea-b514-aa61fa85d936)  
@@ -94,6 +96,7 @@
 수상유닛 역시 지상유닛이나 공중유닛 타격이 불가능하며, 수상유닛간의 공격만 가능   
 ● 공중유닛  
 공중유닛은 공중유닛을 제외 모든 유닛의 타격이 가능하며,업그레이드된 요새의 공격만 공중유닛 타격이 가능  
-
-
+  
+**게임 플레이 공략**    
+![image](https://github.com/grace7040/JamsilBridgeWar/assets/81251069/74f0575a-d32e-4d4d-a994-23239cefacf8)
 
