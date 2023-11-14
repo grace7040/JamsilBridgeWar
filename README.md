@@ -2,8 +2,8 @@
 ![교류회 템플릿_잠실대교_1](https://github.com/grace7040/JamsilBridgeWar/assets/81251069/c87add65-972e-4b6a-afe1-5a6af1164aad)
   
   
-**스토리 영상** : https://www.youtube.com/watch?v=uk5n8rE756s
-**게임 소개 영상** : https://youtu.be/W34e4hlNBxI?feature=shared
+### 스토리 영상 : https://www.youtube.com/watch?v=uk5n8rE756s  
+### 게임 소개 영상 : https://youtu.be/W34e4hlNBxI?feature=shared
   
   
 ## 1. 게임개요
