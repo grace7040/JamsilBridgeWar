@@ -16,9 +16,11 @@
 **1-4) 지리적 배경**
 : 잠실대교 인근의 실제 지형을 사용하며 북쪽으로는 건국대학교 일감호, 남쪽으로는 석촌호수를 포함한다.
 ![image](https://github.com/grace7040/JamsilBridgeWar/assets/81251069/06b9f480-a2c0-4bea-b514-aa61fa85d936)
+
 구현과정에서 건물들을 간략화하고, 특징이 될 수 있는 건물들과 Object로써 활용할 건물 위주로 구성.
 ![image](https://github.com/grace7040/JamsilBridgeWar/assets/81251069/39cc51b1-7bbf-43d1-a3b3-1a8300adff27)
 ![image](https://github.com/grace7040/JamsilBridgeWar/assets/81251069/79d1ed2a-b25b-4ca6-ba01-3e76703f2c53)
+
 **1-5) 게임종료 조건**
 : 각 진영 요새 중 어느 한 곳이라도 파괴되는 경우 게임이 종료된다. 
 건대 요새의 파괴되면 플레이어의 승리, 반대는 AI의 승리가 된다.
@@ -35,7 +37,7 @@
 ● 요새(육군기지)
 건대진영은 가상의 건국대학교 건물, 잠실진영은 롯데월드를 사용하며, 지상유닛을 소환할 수 있다. 
 - 업그레이드 : 지상유닛의 공격력 및 요새의 HP증가, 요새에 공중유닛 공격시스템 추가
-![image](https://github.com/grace7040/JamsilBridgeWar/assets/81251069/6318dfd0-7846-4334-92a2-26cca8aa74cf)
+  ![image](https://github.com/grace7040/JamsilBridgeWar/assets/81251069/6318dfd0-7846-4334-92a2-26cca8aa74cf)
 
 ● 해군기지
 건대진영은 일감호, 잠실진영은 석촌호수에 위치하며 수중유닛을 생산할 수 있다
@@ -67,15 +69,14 @@
 **3-1) 시점**
 : 기본적으로 탑뷰 시점을 활용하며, 마우스와 키보드의 움직임에 따라 맵 내에서는 자유롭게 이동이 가능하다.
 **3-2) UI**
-   ![image](https://github.com/grace7040/JamsilBridgeWar/assets/81251069/9b924066-4b6c-4182-900e-0e6647ce6328)
+![image](https://github.com/grace7040/JamsilBridgeWar/assets/81251069/9b924066-4b6c-4182-900e-0e6647ce6328)
 ![image](https://github.com/grace7040/JamsilBridgeWar/assets/81251069/978c1d97-5d91-4661-90f4-e1e9dc6b2ef0)
 ![image](https://github.com/grace7040/JamsilBridgeWar/assets/81251069/59c79e3f-8e71-4559-924c-b707fcaaf90d)
 ![image](https://github.com/grace7040/JamsilBridgeWar/assets/81251069/14205440-b924-4f86-8958-11047a8192b0)
 ![image](https://github.com/grace7040/JamsilBridgeWar/assets/81251069/dd1f8e02-d11f-4295-ad1c-6b99b4a4aa29)
 
 **3-3) 골드 획득**
-: 기본적으로 일정 시간마다 골드를 획득하며, 지상유닛이 ‘Club’에서 상호작용하여 추가적으로 
-골드를 획득할 수 있다.
+: 기본적으로 일정 시간마다 골드를 획득하며, 지상유닛이 ‘Club’에서 상호작용하여 추가적으로 골드를 획득할 수 있다.
 **3-4) 게임 조작방법**
 ● 공통
 - 유닛은 개별이동 및 드래그를 이용한 다수선택으로 군집으로 이동이 가능 
@@ -84,7 +85,7 @@
 ● 유닛 생성방법
 - 유닛은 각각 기지의 지정된 스폰장소에서 스폰
 - 유닛을 생성하는 UI는 각각 해당되는 기지를 더블클릭하여 화면에 표출하며 UI에서는 어떤 유닛을 얼마나 생성할지 선택이 가능
-![image](https://github.com/grace7040/JamsilBridgeWar/assets/81251069/3a600c3e-7a06-46cd-8ce6-462a2d22c8d3)
+- ![image](https://github.com/grace7040/JamsilBridgeWar/assets/81251069/3a600c3e-7a06-46cd-8ce6-462a2d22c8d3)
 
 **3-5) 전투방식**
 ● 공통
