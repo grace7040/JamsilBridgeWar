@@ -4,7 +4,7 @@
   
 ### 스토리 영상 : https://www.youtube.com/watch?v=uk5n8rE756s  
 ### 게임 소개 영상 : https://youtu.be/W34e4hlNBxI?feature=shared  
-### 플레이 링크 : [https://youtu.be/W34e4hlNBxI?feature=shared](https://drive.google.com/file/d/1xB57udb4AZXi7tOYeChrQ1RSL7ElvqdI/view?usp=sharing)
+### 플레이 링크 : https://drive.google.com/file/d/1xB57udb4AZXi7tOYeChrQ1RSL7ElvqdI/view?usp=sharing
   
   
 ## 1. 게임개요
