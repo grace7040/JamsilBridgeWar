@@ -64,7 +64,8 @@
 ## 3. 게임플레이 
 **3-1) 시점**
 : 기본적으로 탑뷰 시점을 활용하며, 마우스와 키보드의 움직임에 따라 맵 내에서는 자유롭게 이동이 가능하다.  
-**3-2) UI**
+  
+**3-2) UI**  
 ![image](https://github.com/grace7040/JamsilBridgeWar/assets/81251069/9b924066-4b6c-4182-900e-0e6647ce6328)
 ![image](https://github.com/grace7040/JamsilBridgeWar/assets/81251069/978c1d97-5d91-4661-90f4-e1e9dc6b2ef0)
 ![image](https://github.com/grace7040/JamsilBridgeWar/assets/81251069/59c79e3f-8e71-4559-924c-b707fcaaf90d)
