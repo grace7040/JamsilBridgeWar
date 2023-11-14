@@ -81,7 +81,7 @@
 ● 유닛 생성방법    
 - 유닛은 각각 기지의 지정된 스폰장소에서 스폰    
 - 유닛을 생성하는 UI는 각각 해당되는 기지를 더블클릭하여 화면에 표출하며 UI에서는 어떤 유닛을 얼마나 생성할지 선택이 가능    
-- ![image](https://github.com/grace7040/JamsilBridgeWar/assets/81251069/3a600c3e-7a06-46cd-8ce6-462a2d22c8d3)
+ ![image](https://github.com/grace7040/JamsilBridgeWar/assets/81251069/3a600c3e-7a06-46cd-8ce6-462a2d22c8d3)
 
 **3-5) 전투방식**  
 ● 공통  
